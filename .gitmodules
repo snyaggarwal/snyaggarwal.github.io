@@ -1,0 +1,3 @@
+[submodule "hbs"]
+	path = hbs
+	url = git@github.com:snyaggarwal/hbs.git
